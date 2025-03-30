@@ -12,8 +12,7 @@
 
 ## 🛠 Стек технологий  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl)  
-![SDL](https://img.shields.io/badge/-SDL3-07405E?style=flat-square&logo=SimpleDirectMediaLayer&logoColor=white)  
+![OpenGL](https://img.shields.io/badge/-OpenGL-5586A4?style=flat-square&logo=opengl)   
 ![ImGui](https://img.shields.io/badge/-ImGui-9C27B0?style=flat-square&logo=imgui&logoColor=white)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 
