@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Связаться со мной  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/KRN_3000)  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yankeee96)  
 HH: https://hh.ru/resume/0f9430c3ff0c6c54c30039ed1f627656513833
 
 ---
